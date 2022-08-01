@@ -153,5 +153,5 @@ SHRP_REC := /dev/block/platform/bootdevice/by-name/recovery
 SHRP_REC_TYPE := Treble
 SHRP_DEVICE_TYPE := AB
 SHRP_DARK := true
-SHRP_OFFICIAL := false
+SHRP_OFFICIAL := true
 SHRP_EXPRESS := true
